@@ -39,7 +39,7 @@ async def start(c, m, cb=False):
     # Buttons
     buttons = [
         [
-            InlineKeyboardButton('My Father 👨‍✈️', url=f"https://t.me/{owner_username}"),
+            InlineKeyboardButton('Channel', url=f"https://t.me/Kannada_DubMovies"),
             InlineKeyboardButton('Help 💡', callback_data="help")
         ],
         [
